@@ -1,0 +1,15 @@
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\bin\Debug\002-bootle-deposits_desktop.exe.config
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\bin\Debug\002-bootle-deposits_desktop.exe
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\bin\Debug\002-bootle-deposits_desktop.pdb
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\_002_bootle_deposits_desktop.Form1.resources
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\_002_bootle_deposits_desktop.Properties.Resources.resources
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.csproj.GenerateResource.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.exe
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.pdb
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\bin\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\bin\Debug\002-bootle-deposits.pdb
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\002-bootle-deposits_desktop.csproj.CopyComplete
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits_desktop\obj\Debug\_002_bootle_deposits_desktop.Form2.resources

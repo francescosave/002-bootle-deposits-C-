@@ -1,0 +1,12 @@
+C:\Users\Francesco\Desktop\programming-basics\projects\m1\002-bottle-deposits\solutions\francescoricci\002-bootle-deposits\002-bootle-deposits\bin\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\programming-basics\projects\m1\002-bottle-deposits\solutions\francescoricci\002-bootle-deposits\002-bootle-deposits\bin\Debug\002-bootle-deposits.pdb
+C:\Users\Francesco\Desktop\programming-basics\projects\m1\002-bottle-deposits\solutions\francescoricci\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\programming-basics\projects\m1\002-bottle-deposits\solutions\francescoricci\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\programming-basics\projects\m1\002-bottle-deposits\solutions\francescoricci\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\programming-basics\projects\m1\002-bottle-deposits\solutions\francescoricci\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.pdb
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\bin\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\bin\Debug\002-bootle-deposits.pdb
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.pdb

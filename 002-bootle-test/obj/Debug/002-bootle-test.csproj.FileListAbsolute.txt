@@ -1,0 +1,6 @@
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-test\obj\Debug\002-bootle-test.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-test\obj\Debug\002-bootle-test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-test\obj\Debug\_002_bootle_deposits_desktop.Form2.resources
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-test\obj\Debug\_002_bootle_test.Properties.Resources.resources
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-test\obj\Debug\002-bootle-test.csproj.GenerateResource.cache
+C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-test\obj\Debug\002-bootle-test.csproj.CoreCompileInputs.cache
