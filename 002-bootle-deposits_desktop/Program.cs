@@ -18,5 +18,9 @@ namespace _002_bootle_deposits_desktop
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+       
+
+
     }
 }

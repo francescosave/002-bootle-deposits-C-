@@ -10,3 +10,9 @@ C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootl
 C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.CoreCompileInputs.cache
 C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.dll
 C:\Users\Francesco\Desktop\programming-basicsC#\m1\002-bootle-deposits\002-bootle-deposits\obj\Debug\002-bootle-deposits.pdb
+C:\Users\Francesco\Desktop\002-bootle-deposits-C-\002-bootle-deposits\bin\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\002-bootle-deposits-C-\002-bootle-deposits\bin\Debug\002-bootle-deposits.pdb
+C:\Users\Francesco\Desktop\002-bootle-deposits-C-\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\002-bootle-deposits-C-\002-bootle-deposits\obj\Debug\002-bootle-deposits.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\002-bootle-deposits-C-\002-bootle-deposits\obj\Debug\002-bootle-deposits.dll
+C:\Users\Francesco\Desktop\002-bootle-deposits-C-\002-bootle-deposits\obj\Debug\002-bootle-deposits.pdb

@@ -28,7 +28,7 @@ namespace _002_bootle_deposits_console
         static String line_delim = new string('-', screen_charwidth);
         static ReportBill() {
             //Console.WriteLine("constructor static");
-            Translate("de");
+            Translate("es");
         }
 
         private static void Translate(string lang_selection = "")
